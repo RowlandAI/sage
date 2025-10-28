@@ -9,8 +9,7 @@
   "keywords": [],
   "author": "Rowland AI (https://rowland.ai)",
   "contributors": [
-    "Nolan Tremelling <nolan@rowland.ai>"
-    "Layla Ford <fordlayla14@gmail.com>"
+    "Nolan Tremelling <nolan@rowland.ai>" 
   ],
   "license": "MIT",
   "packageManager": "pnpm@10.12.3",
