@@ -9,7 +9,8 @@
   "keywords": [],
   "author": "Rowland AI (https://rowland.ai)",
   "contributors": [
-    "Nolan Tremelling <nolan@rowland.ai>"
+    "Nolan Tremelling <nolan@rowland.ai>",
+    "Victor Chan <chanvict88@gmail.com>"
   ],
   "license": "MIT",
   "packageManager": "pnpm@10.12.3",
